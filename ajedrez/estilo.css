@@ -1,0 +1,47 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.botones {
+  width: 850px;
+  height: 140px;
+  margin-left: 80px;
+  margin-top: 80px;
+  padding: 20px;
+}
+
+.crear {
+  margin-right: 50px;
+  width: 100px;
+}
+.button-1 {
+  margin-right: 50px;
+  width: 150px;
+}
+.button-2 {
+  margin-right: 50px;
+  width: 150px;
+}
+.contenedor {
+  margin-left: 450px;
+  width: auto;
+  height: 450px;
+  width: 500px;
+  float: left;
+  position: absolute;
+}
+
+.caja {
+  width: 25px;
+  max-width: 25px;
+  height: 20px;
+  float: left;
+  position: relative;
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
+  border-left: 0.5px solid black;
+  border-right: 0.5px solid black;
+  padding: 0px;
+  margin: 0px;
+}
